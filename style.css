@@ -1,0 +1,277 @@
+@font-face {
+    font-family: Manrope;
+    src: url("./Manrope-Regular.ttf");
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.main {
+    width: 1300px;
+    height: 900px;
+    background-image: url("./tesla_yorqin.png");
+    margin-left: 50px;
+}
+
+.img {
+    position: absolute;
+    width: 400px;
+    height: 100px;
+    background-image: url("./yozuv_to\'qi.png");
+    margin-left: 470px;
+    margin-top: 90px;
+}
+
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+    padding: 0px 20px;
+}
+
+.img {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* margin-left: 0px; */
+}
+
+.img2 {
+    position: absolute;
+    margin-top: -860px;
+    margin-left: 550px;
+}
+
+.h2 {
+    font-family: Manrope;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 33px;
+    letter-spacing: 0em;
+    text-align: center;
+    margin-top: -650px;
+    margin-left: 150px;
+}
+
+.btn {
+    position: absolute;
+    width: 170px;
+    height: 45px;
+    margin-left: 680px;
+    margin-top: 450px;
+    border: 4px solid rgb(255, 255, 255);
+    background-color: rgb(36, 34, 34);
+    color: white;
+    margin-top: 730px;
+    margin-left: 620px;
+    cursor: pointer;
+
+}
+
+.btn:hover {
+    transition: .5s;
+    color: black;
+    background-color: rgb(255, 255, 255);
+
+}
+
+.header {
+    position: absolute;
+    font-family: Manrope;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 33px;
+    letter-spacing: 0em;
+    text-align: center;
+    margin-left: 250px;
+    margin-top: 280px;
+
+}
+
+.section {
+    width: 1300px;
+    height: 4400px;
+    background-color: black;
+    margin-left: 50px;
+}
+
+.h1 {
+    position: absolute;
+    color: #FFF;
+    font-family: Manrope;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin-left: 100px;
+    margin-top: 200px;
+}
+
+h2 {
+    position: absolute;
+    color: #FFF;
+    font-family: Manrope;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    margin-top: 250px;
+    margin-left: 100px;
+}
+
+.image {
+    position: absolute;
+    width: 600px;
+    height: 330px;
+    background-image: url("./tesla_ko\'cha.png");
+    margin-left: 630px;
+    margin-top: 180px;
+}
+
+.image2 {
+    position: absolute;
+    width: 600px;
+    height: 390px;
+    margin-top: 550px;
+    margin-left: 100px;
+}
+
+.text {
+    position: absolute;
+    margin-left: 750px;
+    margin-top: 550px;
+    color: white;
+    font-family: Manrope;
+    font-size: 28px;
+    font-weight: 600;
+    line-height: 38px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+.text2 {
+    font-family: Manrope;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-left: 750px;
+    margin-top: 650px;
+}
+
+.text3 {
+    position: absolute;
+    font-family: Manrope;
+    font-size: 28px;
+    font-weight: 600;
+    line-height: 38px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgb(255, 255, 255);
+    margin-top: 1100px;
+    margin-left: 100px;
+}
+
+.text4 {
+    font-family: Manrope;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-top: 1150px;
+    margin-left: 100px;
+}
+
+.image5 {
+    position: absolute;
+    width: 1170px;
+    height: 638px;
+    background-image: url("./d9730113-45c1-4db2-80eb-ce867644aa1d.jpg");
+    margin-top: 1280px;
+    margin-left: 100px;
+
+}
+
+.text5 {
+    position: absolute;
+    font-family: Manrope;
+    font-size: 28px;
+    font-weight: 600;
+    line-height: 38px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFF;
+    margin-top: 1990px;
+    margin-left: 100px;
+}
+
+.text6 {
+    font-family: Manrope;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-top: 2040px;
+    margin-left: 100px;
+}
+
+.image6 {
+    position: absolute;
+    width: 1170px;
+    height: 636px;
+    background-image: url("./debda281-5298-46d8-bae8-cf45cba239f2.jpg");
+    margin-left: 100px;
+    margin-top: 2140px;
+}
+
+.text7 {
+    position: absolute;
+    margin-left: 100px;
+    margin-top: 2855px;
+    color: #FFF;
+}
+
+.text8 {
+    font-family: Manrope;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-left: 100px;
+    margin-top: 2910px;
+}
+
+.img7 {
+    position: absolute;
+    width: 1170px;
+    height: 585px;
+    background-image: url("./447f0ece-ab78-45b6-85a0-e95f14af5741.jpg");
+    margin-left: 100px;
+    margin-top: 3050px;
+}
+
+.img8 {
+    position: absolute;
+    width: 890px;
+    height: 300px;
+    background-image: url("./yozuv_ochi-removebg-preview.png");
+    margin-left: 200px;
+    margin-top: 3880px;
+}
+
+.img9 {
+    position: absolute;
+    width: 657px;
+    height: 373px;
+    background-image: url("./\(1\).png");
+    margin-top: 3930px;
+    margin-left: 330px;
+}
